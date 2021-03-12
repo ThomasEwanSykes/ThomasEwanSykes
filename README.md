@@ -10,9 +10,9 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate with anyone on Youtube Videos, Websites, and more/
 - 🤔 I’m looking for help with PHP, Making a site to edit diffrent deals, and displaying on another page.
 - 💬 Ask me about Anything.
-- 📫 How to reach me: <a href="https://tom-sykes.co.uk/go/tw" class="twitter"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/twitter.ico" width="20px" height="20px"></a>
-                            <a href="mailto:tom@pythonastudios.com1" class="email"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/email.png" width="20px" height="20px"></a>
-                            <a href="https://tom-sykes.co.uk/go/ig" class="instagram"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/instagram.png" width="20px" height="20px"></a>
+- 📫 How to reach me: <a href="https://tom-sykes.co.uk/go/tw" class="twitter"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/twitter.ico" width="20px" height="20px"></a> &dash;
+                            <a href="mailto:tom@pythonastudios.com1" class="email"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/email.png" width="20px" height="20px"></a>&dash;
+                            <a href="https://tom-sykes.co.uk/go/ig" class="instagram"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/instagram.png" width="20px" height="20px"></a>&dash;
                             <a href="https://tom-sykes.co.uk/go/discord" class="discord"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/discord.ico" width="20px" height="20px"></a>
 
 - 😄 Pronouns: He/Him
