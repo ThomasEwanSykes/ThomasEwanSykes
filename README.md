@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with PHP, Making a site to edit diffrent deals, and displaying on another page.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: <a href="https://tom-sykes.co.uk/go/tw" class="twitter"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/twitter.ico" width="20px" height="20px"></a> &nbsp;
-                            <a href="mailto:tom@pythonastudios.com" class="email"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/email.png" width="30px" height="20px"></a>&nbsp;
+                            <a href="mailto:tom@pythonastudios.com" class="email"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/email.png" width="25px" height="20px"></a>&nbsp;
                             <a href="https://tom-sykes.co.uk/go/ig" class="instagram"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/instagram.png" width="20px" height="20px"></a>&nbsp;
                             <a href="https://tom-sykes.co.uk/go/discord" class="discord"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/discord.ico" width="20px" height="20px"></a>
 
