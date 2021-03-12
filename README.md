@@ -14,5 +14,5 @@
                             <a href="https://tom-sykes.co.uk/go/discord" class="discord"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/discord.ico" width="20px" height="20px"></a>
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am the CEO of<a href="https://g9.yt/psgh">@PythonaStudios</a>
+- ⚡ Fun fact: I am the CEO of <a href="https://g9.yt/psgh">@PythonaStudios</a>
 
