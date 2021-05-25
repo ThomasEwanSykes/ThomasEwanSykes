@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently working on all of <a href="https://pyst.me/go/psmain">Pythona Studios</a>' Websites/Projects
-- 🏫 I’m currently learning Business studies at College.
+- 🏫 I’m currently learning Animal Management at College.
 - 👯 I’m looking to collaborate with anyone on Youtube Videos, Websites, and more.
-- 🤔 I’m looking for help with PHP, Making a site to edit diffrent deals, and displaying on another page.
+- 🤔 I’m looking for help with PHP.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: <a href="https://tom-sykes.co.uk/go/tw" class="twitter"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/twitter.ico" width="20px" height="20px"></a> &nbsp;
                             <a href="mailto:tom@pythonastudios.com" class="email"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/email.png" width="25px" height="20px"></a>&nbsp;
