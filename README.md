@@ -1,10 +1,10 @@
-<h3 align="center">Hiya, My name is Thomas Ewan Sykes, i am a CEO and Cinematographer for <a href="https://g9.yt/psgh">@PythonaStudios</a></h3>
-<h5 align="center">I am a CEO and Cinematographer for Pythona Studios, i created Pythona Studios in 2018, starting out with creating Discord bots, but then later started selling and creating Websites.</h5>
+<h3 align="center">Hiya, My name is Thomas Ewan Sykes, I am a CEO and Cinematographer for <a href="https://g9.yt/psgh">@PythonaStudios</a></h3>
+<h5 align="center">I am a CEO and Cinematographer for Pythona Studios, I created Pythona Studios in 2018, starting out with creating Discord bots, but then later started selling and creating Websites.</h5>
 
 
 
 - 🔭 I’m currently working on all of <a href="https://pyst.me/go/psmain">Pythona Studios</a>' Websites/Projects
-- 🏫 I’m currently learning Animal Management at College.
+- 🏫 I’m currently studying  Animal Management at College.
 - 👯 I’m looking to collaborate with anyone on Youtube Videos, Websites, and more.
 - 🤔 I’m looking for help with PHP.
 - 💬 Ask me about Anything.
