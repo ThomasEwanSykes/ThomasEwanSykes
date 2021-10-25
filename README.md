@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on all of <a href="https://pyst.me/go/psmain">Pythona Studios</a>' Websites/Projects
 - 🏫 I’m currently studying  Animal Management at College.
-- 👯 I’m looking to collaborate with anyone on Youtube Videos, Websites, and more.
+- 👯 I’m looking to collaborate with anyone on Youtube Videos, Websites, and more. Along with this I'm looking for film work (as a Camera operator) in the South of UK Preferbly!
 - 🤔 I’m looking for help with PHP.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: <a href="https://tom-sykes.co.uk/go/tw" class="twitter"><img src="https://assets.pythonastudios.gb.net/pythonastudios/img/team/twitter.ico" width="20px" height="20px"></a> &nbsp;
