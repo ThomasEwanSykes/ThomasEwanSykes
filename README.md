@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tom@pythonastudios.com | Discord (below)**
 
-- ⚡ Fun fact **I Love Rain (https://rain.tom-sykes.co.uk), i'm lil bit gay, I'm Studying Animal Management**
+- ⚡ Fun fact **I Love Rain (https://rain.tom-sykes.co.uk), i'm lil bit gay, I'm Studying Animal Management, I Also have a Level 2 Distinction in it already, and studying Level 3 Currently.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
