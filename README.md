@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working on [Shit ig](https://youtube.com/Mad_TomO5)
 
-- 📫 How to reach me **tom@pythonastudios.com | Discord (below)**
+- 📫 How to reach me **tom.sykes@pythonastudios.com**
 
 - ⚡ Fun fact **I Love Rain (https://rain.tom-sykes.co.uk), i'm lil bit gay, I'm Studying BSc (Hons) Bioveterinary Sciecnes, I Also have a Level 2 Distinction, and a Level 3 MMM In Animal Management.**
+
+- Emergency and Critical Care (ECC) / Out-of-Hours (OOH) Veterinary Care Assistant
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
