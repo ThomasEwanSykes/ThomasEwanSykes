@@ -2,9 +2,6 @@
 
 <p align="left"> <a href="https://twitter.com/Mad_Tom05" target="blank"><img src="https://img.shields.io/twitter/follow/Mad_Tom05?logo=twitter&style=for-the-badge" alt="Mad_Tom05" /></a> </p>
 
-**Currently Listening To:**<br/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fptn8gs7uxwx5i64pj0cf1k32&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fptn8gs7uxwx5i64pj0cf1k32&redirect=true)
-
 - 🔭 I’m currently working on [Shit ig](https://youtube.com/Mad_TomO5)
 
 - 📫 How to reach me **tom.sykes@pythonastudios.com**
