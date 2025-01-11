@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I Love Rain (https://rain.tom-sykes.co.uk), i'm lil bit gay, I'm Studying BSc (Hons) Bioveterinary Sciecnes, I Also have a Level 2 Distinction, and a Level 3 MMM In Animal Management.**
 
-- Emergency and Critical Care (ECC) / Out-of-Hours (OOH) Veterinary Care Assistant
+- 🐕 Emergency and Critical Care (ECC) / Out-of-Hours (OOH) Veterinary Care Assistant
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +34,4 @@ And other stuff Read it on my website lazy shits<br>
 <a href="//tom-sykes.co.uk">tom-sykes.co.uk</a><br> 
 <a href="//tomsykes.gay">tomsykes.gay</a><br> 
 <a href="//tomsykes.shop">tomsykes.shop</a>
+<a href="//tomsykes.uk">tomsykes.uk</a>
